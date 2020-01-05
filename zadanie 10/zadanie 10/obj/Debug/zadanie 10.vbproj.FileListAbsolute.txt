@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\zadanie 10\zadanie 10\bin\Debug\zadanie 10.exe.config
+C:\Users\user\source\repos\zadanie 10\zadanie 10\bin\Debug\zadanie 10.exe
+C:\Users\user\source\repos\zadanie 10\zadanie 10\bin\Debug\zadanie 10.pdb
+C:\Users\user\source\repos\zadanie 10\zadanie 10\bin\Debug\zadanie 10.xml
+C:\Users\user\source\repos\zadanie 10\zadanie 10\obj\Debug\zadanie_10.Form1.resources
+C:\Users\user\source\repos\zadanie 10\zadanie 10\obj\Debug\zadanie_10.Resources.resources
+C:\Users\user\source\repos\zadanie 10\zadanie 10\obj\Debug\zadanie 10.vbproj.GenerateResource.cache
+C:\Users\user\source\repos\zadanie 10\zadanie 10\obj\Debug\zadanie 10.exe
+C:\Users\user\source\repos\zadanie 10\zadanie 10\obj\Debug\zadanie 10.xml
+C:\Users\user\source\repos\zadanie 10\zadanie 10\obj\Debug\zadanie 10.pdb
